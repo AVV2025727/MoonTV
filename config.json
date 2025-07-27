@@ -15,6 +15,11 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
+     "heimuer": {
+      "api": "https://slapibf.com/api.php/provide/vod/",
+      "name": "森林资源",
+      "detail": "https://senlinzy.com/"
+    },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
