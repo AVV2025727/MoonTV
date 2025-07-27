@@ -1,4 +1,4 @@
-{
+li{
   "cache_time": 7200,
   "api_site": {
     "dyttzy": {
@@ -15,10 +15,20 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
-     "heimuer": {
+     "senlin": {
       "api": "https://slapibf.com/api.php/provide/vod/",
       "name": "森林资源",
       "detail": "https://senlinzy.com/"
+    },
+      "souav": {
+      "api": "https://api.souavzy.vip/api.php/provide/vod/",
+      "name": "搜AV",
+      "detail": "https://souavzy8.com/"
+    },
+    "siwa": {
+      "api": "https://siwazyw.tv/api.php/provide/vod/",
+      "name": "丝袜资源",
+      "detail": "https://siwazyw.tv/"
     },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
